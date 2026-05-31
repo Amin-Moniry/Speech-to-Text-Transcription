@@ -26,7 +26,7 @@ A powerful Python-based audio processing tool that automatically removes silence
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Amin-moniry-pr7/Audio-Processing-Transcription.git
+   git clone https://github.com/Amin-moniry/Audio-Processing-Transcription.git
    cd Audio-Processing-Transcription
    ```
 
@@ -176,7 +176,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## 👨‍💻 Author
 
 **Amin Moniry**
-- GitHub: [@Amin-moniry-pr7](https://github.com/Amin-moniry-pr7)
+- GitHub: [@Amin-moniry](https://github.com/Amin-moniry)
 
 ## 🙏 Acknowledgments
 
